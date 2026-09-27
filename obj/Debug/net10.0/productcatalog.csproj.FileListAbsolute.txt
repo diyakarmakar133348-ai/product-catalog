@@ -1,0 +1,8 @@
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\productcatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\productcatalog.AssemblyInfoInputs.cache
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\productcatalog.AssemblyInfo.cs
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\productcatalog.csproj.CoreCompileInputs.cache
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\productcatalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\productcatalog.RazorAssemblyInfo.cache
+C:\Users\RIYA\Downloads\productcatalog\obj\Debug\net10.0\productcatalog.RazorAssemblyInfo.cs
